@@ -1,19 +1,17 @@
 # doan-vue3-vite-starter-public
 
-demo
-http://doan-vue3-vite-starter.herokuapp.com/product
+## demo: http://doan-vue3-vite-starter.herokuapp.com/product
 
 
-*front end:
-
-  --vite
-  --vuejs 3
-  --tailwindcss
-  --vue-router
-  vuex
-  jwt
-  with route protection & authen + authorization
-  ssr
+###front end:
+  1. vite
+  2. vuejs 3
+  3. tailwindcss
+  4. vue-router
+  5. vuex
+  6. jwt
+  7. with route protection & authen + authorization
+  8. ssr
   
 backend end:
   express
