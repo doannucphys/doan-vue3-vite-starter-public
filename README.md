@@ -3,15 +3,17 @@
 demo
 http://doan-vue3-vite-starter.herokuapp.com/product
 
-front end:
-  vite
-  vuejs 3
-  tailwindcss
-  vue-router
+**front end:
+
+  --vite
+  --vuejs 3
+  --tailwindcss
+  --vue-router
   vuex
   jwt
   with route protection & authen + authorization
   ssr
+  
 backend end:
   express
   mongodb (mongoose)
